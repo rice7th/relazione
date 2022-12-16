@@ -112,4 +112,4 @@ P * V = K
 | > 4       | 75,36   | ???????   |
 
 ## Conclusioni
-La legge di Boyle è stata verificata
+La legge di Boyle è stata verificata.
