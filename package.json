@@ -1,0 +1,20 @@
+{
+  "name": "relazion",
+  "version": "1.0.0",
+  "description": "Relazione! Copiate o miei compagni!",
+  "main": "index.js",
+  "repository": "https://github.com/rice7th/relazione_brutta",
+  "author": "rice7th",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.32",
+    "vue": "^3.2.45"
+  },
+
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  }
+}
