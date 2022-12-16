@@ -23,6 +23,7 @@ P * V = K dove: P è la pressione, V è il volume e K è la costante (Di che?)
 (Io non c'ero quindi è un po' inutile lol)
 
 ## Esecuzione
+(scusate il casino)
 
 apri la valvola
 prendi la misura a 25 cm
@@ -109,3 +110,6 @@ P * V = K
 | 3,10      | 100,48  | 311,488   |
 | 3,55      | 87,92   | 312,116   |
 | > 4       | 75,36   | ???????   |
+
+## Conclusioni
+La legge di Boyle è stata verificata
